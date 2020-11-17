@@ -2,6 +2,14 @@
   "name": "nuxt-test-yarn",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "Adrian Novak",
+    "email": "anovak@perpetual-design.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anovak77/nuxt-test-yarn.git"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
