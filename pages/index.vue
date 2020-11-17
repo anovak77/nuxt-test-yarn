@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <div>
+      <h1 class="text-red-900 text-base">Yarn test</h1>
       <Logo />
       <h1 class="title">nuxt-test-yarn</h1>
       <div class="links">
